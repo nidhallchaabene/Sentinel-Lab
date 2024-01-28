@@ -13,7 +13,7 @@
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
 <h2>Architecture:</h2>
-<img src="https://imgur.com/Ia0XrBO.png" height="85%" width="85%" alt="Architecture"/>
+<img src="https://imgur.com/Xd9VK2u.png" height="85%" width="85%" alt="Architecture"/>
 
  <h2>Program Walkthrough:</h2>
  
